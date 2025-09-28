@@ -1,6 +1,8 @@
 # 1.🇶 URL의 구성 요소 중 쿼리가 무엇인지 실제 웹 서비스의 쿼리를 예시로 설명해 주세요.<br/>
 
-- https://www.google.com/search?q=%ED%81%AC%EB%A1%AC+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC+general+gpej&sca_esv=cc2c3cd950dba5e5&hl=ko&sxsrf=AE3TifO5w0CnHFoZz-y3A3nGMcdKDff4Aw%3A1758501225663&ei=aZnQaI2cKOLDvr0PuozkwQs&ved=0ahUKEwjN9JHHj-uPAxXioa8BHToGObgQ4dUDCBA&uact=5&oq=%ED%81%AC%EB%A1%AC+%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84%EA%B5%AC+general+gpej&gs_lp=Egxnd3Mtd2l6LXNlcnAiI-2BrOuhrCDqsJzrsJzsnpDrj4TqtawgZ2VuZXJhbCBncGVqMgkQIRigARgKGCoyBxAhGKABGAoyBxAhGKABGApIm0RQyx1YvkJwBXgAkAEAmAGaAaAB5g6qAQQwLjE2uAEDyAEA-AEBmAIUoAKqDsICChAAGLADGNYEGEfCAgYQABgHGB7CAgUQABiABMICChAAGIAEGEMYigXCAggQABiABBiiBMICCBAAGKIEGIkFwgIFEAAY7wXCAgUQIRigAZgDAIgGAZAGCpIHBDUuMTWgB70_sgcEMC4xNbgHmw7CBwQ5LjExyAcc&sclient=gws-wiz-serp 물음표 이후로 나오는 것들
+- https://www.google.com/search?q=%EC%B6%95%EA%B5%AC&sca_esv=b9a65900b830afa2&rlz=1C5CHFA_enKR1177KR1177&sxsrf=AE3TifOhPgQZxB6IbneG61smG1jOKj1_dw%3A1758764531019&ei=853UaLlswo2-vQ_LwaKAAw&ved=0ahUKEwj5sfW45PKPAxXChq8BHcugCDAQ4dUDCBA&uact=5&oq=%EC%B6%95%EA%B5%AC&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgBIgbstpXqtawyCBAAGIAEGLEDMgoQABiABBgUGIcCMgsQABiABBixAxiLAzILEAAYgAQYsQMYiwMyCxAAGIAEGLEDGIsDMggQABiABBiLAzILEAAYgAQYsQMYiwMyCxAAGIAEGLEDGIsDMgsQABiABBixAxiLAzIIEAAYgAQYiwNIyBZQuxBYxxRwAXgBkAEBmAHUAaABrwWqAQUwLjQuMbgBA8gBAPgBAZgCBKAC7wKoAgrCAgcQIxgnGOoCwgIHEC4YJxjqAsICDRAuGNEDGMcBGCcY6gLCAgQQIxgnwgIKECMYgAQYJxiKBcICCxAAGIAEGLEDGIMBwgIEEAAYA8ICCxAuGIAEGLEDGIMBwgIIEC4YgAQYsQPCAgUQABiABJgDBfEFk8TGeHGDgKCSBwMxLjOgB6RCsgcDMC4zuAfqAsIHBTAuMi4yyAcL&sclient=gws-wiz-serp<br/>
+  물음표 이후로 나오는 것들
+  [Image]: https://blog.kakaocdn.net/dna/dtSjaZ/btrgWCvqpRf/AAAAAAAAAAAAAAAAAAAAAN72Ny-NX0LeDbGahp0TqfR3M8yhRI4-oiECTzaT_n1c/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1759244399&allow_ip=&allow_referer=&signature=uuDWXwKKfqhKa9IsY4L4V8PB5Mk%3D "URL 구성요소"
 
 ---
 
