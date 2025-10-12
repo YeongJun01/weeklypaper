@@ -6,5 +6,5 @@
 
 # 2. 🇶 프로미스(Promise)의 3가지 상태에 대해 설명해 주세요.
 
-- 프로미스의 3가지 상태에는 pending, fulfilled, rejected가 있다. pending 상태는 비동기 작업이 진행 중이라는 뜻으로 주로 await를 사용하지 않으면 콘솔 창에 pending이라고 나타난다. 이는 await 사용시 해결할 수 있다. fulfilled는 비동기 작업이 성공적으로 끝남을 의미하며 fulfulled 상태가 되면 우리가 원하는 결과값을 promise객체 형태로 얻을 수 있다. rejected상태는 비동기 작업이 실패한 것을 의미하며 rejected상태가 되면 catch구문을 통해 에러를 출력할 수 있다.
+- 프로미스의 3가지 상태에는 pending, fulfilled, rejected가 있다. pending 상태는 비동기 작업이 진행 중이라는 뜻으로 주로 await를 사용하지 않으면 콘솔 창에 pending이라고 나타난다. 이는 await 사용시 해결할 수 있다. fulfilled는 비동기 작업이 성공적으로 끝남을 의미하며 fulfulled 상태가 되면 우리가 원하는 결과값을 promise객체 형태로 얻을 수 있다. rejected상태는 비동기 작업이 실패한 것을 의미하며 rejected상태가 되면 catch구문을 통해 에러를 출력할 수 있다. <br/>
   ![프로미스의 3가지 상태](./png/promise.png)
